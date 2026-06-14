@@ -1,4 +1,4 @@
-const CACHE_NAME='japan2026-v3';
+const CACHE_NAME='japan2026-v4';
 const APP_SHELL=['./','./index.html','./manifest.json','./icons/apple-touch-icon.png','./icons/icon-192.png','./icons/icon-512.png'];
 
 self.addEventListener('install', event => {
